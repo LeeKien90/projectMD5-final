@@ -1,0 +1,128 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoriesName": "IPHONE",
+      "categoriesStatus": "true"
+    },
+    {
+      "id": 2,
+      "categoriesName": "SAM SUNG",
+      "categoriesStatus": "true"
+    },
+    {
+      "id": 3,
+      "categoriesName": "XIAOMI",
+      "categoriesStatus": "true"
+    },
+    {
+      "id": 4,
+      "categoriesName": "kien123",
+      "categoriesStatus": "true",
+      "": "kien"
+    }
+  ],
+  "product": [
+    {
+      "categories": "1",
+      "productName": "iphone 13 128gb",
+      "price": "2000",
+      "quantity": "12",
+      "description": "",
+      "imageProduct": "https://firebasestorage.googleapis.com/v0/b/md5-project-9ffec.appspot.com/o/images%2Fiphone%2013%20128gb.webp?alt=media&token=498fe4d2-7651-406e-9460-788011ca5f7c",
+      "color": "xanh",
+      "status": "Hoạt động",
+      "id": 1
+    },
+    {
+      "categories": "1",
+      "productName": "iphone 14 128gb",
+      "price": "1000",
+      "quantity": "12",
+      "description": "",
+      "imageProduct": "https://firebasestorage.googleapis.com/v0/b/md5-project-9ffec.appspot.com/o/images%2Fiphone%2014%20128gb.webp?alt=media&token=a74cc4c5-af92-4706-b5fb-4be4725c5976",
+      "color": "đen",
+      "status": "Hoạt động",
+      "id": 2
+    },
+    {
+      "categories": "2",
+      "productName": "samsung galaxy s21 128gb",
+      "price": "1200",
+      "quantity": "34",
+      "description": "",
+      "imageProduct": "https://firebasestorage.googleapis.com/v0/b/md5-project-9ffec.appspot.com/o/images%2Fsamsung%20galaxy%20s21%20128gb.webp?alt=media&token=f31e0bc3-4709-421b-adfd-8b0eccf94ba5",
+      "color": "đỏ",
+      "status": "Không Hoạt động",
+      "id": 3
+    },
+    {
+      "categories": "2",
+      "productName": "samsung galaxy s22 ultra",
+      "price": "800",
+      "quantity": "21",
+      "description": "",
+      "imageProduct": "https://firebasestorage.googleapis.com/v0/b/md5-project-9ffec.appspot.com/o/images%2Fsamsung%20galaxy%20s22%20ultra.webp?alt=media&token=7cec3ce5-d28e-4314-a667-051b6b0b4270",
+      "color": "tím",
+      "status": "Hoạt động",
+      "id": 4
+    },
+    {
+      "categories": "3",
+      "productName": "xiaomi redmi 11 pro",
+      "price": "500",
+      "quantity": "34",
+      "description": "",
+      "imageProduct": "https://firebasestorage.googleapis.com/v0/b/md5-project-9ffec.appspot.com/o/images%2Fxiaomi%20redmi%2011%20pro.webp?alt=media&token=2a90db17-36eb-46ff-9780-4fa361154100",
+      "color": "vàng",
+      "status": "Hoạt động",
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "avatar": "anx.jpg",
+      "fullName": "nguyễn văn A",
+      "userName": "abc",
+      "mobileNumber": "12340567",
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "repeatPassword": "123456",
+      "author": "admin",
+      "id": 1
+    },
+    {
+      "avatar": "",
+      "fullName": "Kien",
+      "userName": "Le Kien",
+      "mobileNumber": "12423543645",
+      "email": "askihfgwku@gmail.com",
+      "password": "123",
+      "repeatPassword": "123",
+      "author": "Admin",
+      "id": 2
+    }
+  ],
+  "color": [
+    {
+      "colorName": "xanh",
+      "id": 1
+    },
+    {
+      "colorName": "đen",
+      "id": 2
+    },
+    {
+      "colorName": "đỏ",
+      "id": 3
+    },
+    {
+      "colorName": "tím",
+      "id": 4
+    },
+    {
+      "colorName": "vàng",
+      "id": 5
+    }
+  ]
+}
